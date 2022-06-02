@@ -1,0 +1,1 @@
+É preciso um arquivo, além de pastas para que o GIT entenda que tem algo para enviar ao server.
